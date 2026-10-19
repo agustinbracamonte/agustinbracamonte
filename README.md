@@ -28,5 +28,5 @@ Formación en Comunicación Social (UNJu) y título técnico electromecánico. M
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/agustin-bracamonte-629514b9/)
+- [LinkedIn](https://www.linkedin.com/in/agustinbracamonte/)
 - [GitHub](https://github.com/agustinbracamonte)
